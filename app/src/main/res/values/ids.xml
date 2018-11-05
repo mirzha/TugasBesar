@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textJudul" type="id" />
+    <item name="textDetail" type="id" />
+    <item name="textHarga" type="id" />
+    <item name="imgfood" type="id" />
+    <item name="detailFrag" type="id" />
+    <item name="detail_frag" type="id" />
+</resources>
